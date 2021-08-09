@@ -1,7 +1,7 @@
 {
-	"name": "dereuromark/cakephp-queue",
+	"name": "maymeow/cakephp-queue",
 	"type": "cakephp-plugin",
-	"description": "The Queue plugin for CakePHP provides deferred task execution.",
+	"description": "Fork of The Queue plugin for CakePHP provides deferred task execution.",
 	"keywords": ["cakephp","queue","deferred tasks","background"],
 	"homepage": "https://github.com/dereuromark/cakephp-queue",
 	"license": "MIT",
